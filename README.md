@@ -2,7 +2,7 @@
 
 ### Single Phase Transformer Calculator
 
-![](https://github.com/az-yugen/EEE-3003-EM-Energy-Conversion-LAB/blob/main/screens/screen.tab1.jpg | width=200 )
+![](<screens/screen.tab1.jpg> )
 
 
 ### Series and Parallel Impedances
