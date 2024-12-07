@@ -2,20 +2,20 @@
 
 ### Single Phase Transformer Calculator
 
-![](<screens/screens.tab1.jpg>)
+![](<screens/screen.tab1.jpg> | width=200)
 
 
 ### Series and Parallel Impedances
 
-![](<screens/screen.tab2.jpg>)
+![](<screens/screen.tab2.jpg> | width=200)
 
 
 ### Voltage Regulation
 
-![](<screen/screen.tab3.jpg>)
+![](<screens/screen.tab3.jpg> | width=200)
 
 
 ### Efficiency and Power Losses
 
-![](<screen/screen.tab4.jpg>)
+![](<screens/screen.tab4.jpg> | width=200)
 
