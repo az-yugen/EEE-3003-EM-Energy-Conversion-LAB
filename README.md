@@ -2,20 +2,20 @@
 
 ### Single Phase Transformer Calculator
 
-![](<screens/screen.tab1.jpg> | width=200)
+![](https://github.com/az-yugen/EEE-3003-EM-Energy-Conversion-LAB/blob/main/screens/screen.tab1.jpg | width=200 )
 
 
 ### Series and Parallel Impedances
 
-![](<screens/screen.tab2.jpg> | width=200)
+![](<screens/screen.tab2.jpg> )
 
 
 ### Voltage Regulation
 
-![](<screens/screen.tab3.jpg> | width=200)
+![](<screens/screen.tab3.jpg> )
 
 
 ### Efficiency and Power Losses
 
-![](<screens/screen.tab4.jpg> | width=200)
+![](<screens/screen.tab4.jpg> )
 
