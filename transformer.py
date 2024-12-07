@@ -10,6 +10,9 @@
 # https://matplotlib.org/stable/users/index
 # https://stackoverflow.com/
 
+# all files available at:
+# https://github.com/az-yugen/EEE-3003-EM-Energy-Conversion-LAB
+
 
 
 import PySimpleGUI as sg
