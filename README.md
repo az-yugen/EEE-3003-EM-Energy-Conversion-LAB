@@ -1,21 +1,29 @@
-# [EEE-3003]. Electromechanical Energy Conversion Project
+# EEE-3003: Electromechanical Energy Conversion - Project
 
 ### Single Phase Transformer Calculator
 
-![](<screens/screen.tab1.jpg> )
+<div align="center">
+    <img width="1000" alt="drawdb logo" src="./screens/screen.tab1.jpg">
+</div>
 
 
 ### Series and Parallel Impedances
 
-![](<screens/screen.tab2.jpg> )
+<div align="center">
+    <img width="1000" alt="drawdb logo" src="./screens/screen.tab2.jpg">
+</div>
 
 
 ### Voltage Regulation
 
-![](<screens/screen.tab3.jpg> )
+<div align="center">
+    <img width="1000" alt="drawdb logo" src="./screens/screen.tab3.jpg">
+</div>
 
 
 ### Efficiency and Power Losses
 
-![](<screens/screen.tab4.jpg> )
+<div align="center">
+    <img width="1000" alt="drawdb logo" src="./screens/screen.tab4.jpg">
+</div>
 
